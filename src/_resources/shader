@@ -1,0 +1,27 @@
+
+%vertex
+
+uniform mat4 u_mvp;
+attribute vec2 a_position;
+attribute vec2 a_texCoord;
+varying vec2 v_texcoord;
+
+void main()
+{
+	v_texcoord = a_texCoord;
+	gl_Position = u_mvp * vec4(a_position, 0, 1);
+}
+
+%fragment
+
+#ifdef GL_ES
+precision mediump float;
+#endif
+
+uniform sampler2D u_texture;
+varying vec2 v_texcoord;
+
+void main()
+{
+	gl_FragColor = texture2D(u_texture, v_texcoord);
+}

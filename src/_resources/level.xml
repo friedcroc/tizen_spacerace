@@ -1,0 +1,1671 @@
+<items>
+  <ChainShape>
+    <vertices type="vec2[]">
+      <item>1255.0,805.0</item>
+      <item>1220.0,770.0</item>
+      <item>1215.0,710.0</item>
+      <item>1110.0,675.0</item>
+      <item>1075.0,605.0</item>
+      <item>1005.0,585.0</item>
+      <item>940.0,570.0</item>
+      <item>950.0,480.0</item>
+      <item>960.0,380.0</item>
+      <item>965.0,235.0</item>
+      <item>955.0,170.0</item>
+      <item>735.0,75.0</item>
+      <item>660.0,75.0</item>
+      <item>655.0,150.0</item>
+      <item>670.0,210.0</item>
+      <item>745.0,245.0</item>
+      <item>750.0,190.0</item>
+      <item>785.0,180.0</item>
+      <item>870.0,210.0</item>
+      <item>885.0,255.0</item>
+      <item>885.0,355.0</item>
+      <item>885.0,430.0</item>
+      <item>860.0,480.0</item>
+      <item>780.0,480.0</item>
+      <item>735.0,430.0</item>
+      <item>705.0,400.0</item>
+      <item>625.0,400.0</item>
+      <item>575.0,425.0</item>
+      <item>515.0,385.0</item>
+      <item>540.0,340.0</item>
+      <item>610.0,335.0</item>
+      <item>610.0,280.0</item>
+      <item>610.0,225.0</item>
+      <item>565.0,165.0</item>
+      <item>513.0,126.0</item>
+      <item>440.0,115.0</item>
+      <item>410.0,55.0</item>
+      <item>285.0,60.0</item>
+      <item>225.0,60.0</item>
+      <item>190.0,150.0</item>
+      <item>195.0,205.0</item>
+      <item>320.0,265.0</item>
+      <item>325.0,400.0</item>
+      <item>395.0,460.0</item>
+      <item>470.0,600.0</item>
+      <item>465.0,720.0</item>
+      <item>460.0,815.0</item>
+      <item>410.0,840.0</item>
+      <item>380.0,905.0</item>
+      <item>330.0,925.0</item>
+      <item>230.0,925.0</item>
+      <item>215.0,890.0</item>
+      <item>145.0,890.0</item>
+      <item>140.0,820.0</item>
+      <item>120.0,755.0</item>
+      <item>95.0,755.0</item>
+      <item>95.0,670.0</item>
+      <item>140.0,655.0</item>
+      <item>180.0,665.0</item>
+      <item>291.0,564.0</item>
+      <item>260.0,519.0</item>
+      <item>235.0,485.0</item>
+      <item>235.0,455.0</item>
+      <item>200.0,420.0</item>
+      <item>200.0,370.0</item>
+      <item>182.0,345.0</item>
+      <item>173.0,330.0</item>
+      <item>165.0,305.0</item>
+      <item>115.0,295.0</item>
+      <item>115.0,265.0</item>
+      <item>105.0,215.0</item>
+      <item>90.0,195.0</item>
+      <item>50.0,195.0</item>
+      <item>25.0,209.0</item>
+    </vertices>
+  </ChainShape>
+  <ChainShape>
+    <vertices type="vec2[]">
+      <item>28.0,255.0</item>
+      <item>58.0,238.0</item>
+      <item>75.0,238.0</item>
+      <item>82.0,278.0</item>
+      <item>82.0,302.0</item>
+      <item>82.0,327.0</item>
+      <item>120.0,327.0</item>
+      <item>138.0,345.0</item>
+      <item>138.0,368.0</item>
+      <item>153.0,383.0</item>
+      <item>160.0,427.0</item>
+      <item>155.0,450.0</item>
+      <item>177.0,462.0</item>
+      <item>203.0,467.0</item>
+      <item>203.0,485.0</item>
+      <item>213.0,522.0</item>
+      <item>235.0,522.0</item>
+      <item>250.0,545.0</item>
+      <item>228.0,577.0</item>
+      <item>205.0,608.0</item>
+      <item>168.0,630.0</item>
+      <item>120.0,630.0</item>
+      <item>83.0,632.0</item>
+      <item>58.0,687.0</item>
+      <item>58.0,718.0</item>
+      <item>65.0,770.0</item>
+      <item>90.0,818.0</item>
+      <item>107.0,855.0</item>
+      <item>103.0,888.0</item>
+      <item>112.0,928.0</item>
+      <item>113.0,948.0</item>
+      <item>240.0,978.0</item>
+      <item>327.0,978.0</item>
+      <item>413.0,947.0</item>
+      <item>445.0,882.0</item>
+      <item>490.0,838.0</item>
+      <item>540.0,807.0</item>
+      <item>527.0,740.0</item>
+      <item>500.0,727.0</item>
+      <item>498.0,678.0</item>
+      <item>500.0,552.0</item>
+      <item>428.0,450.0</item>
+      <item>367.0,390.0</item>
+      <item>355.0,248.0</item>
+      <item>232.0,175.0</item>
+      <item>257.0,98.0</item>
+      <item>373.0,103.0</item>
+      <item>400.0,153.0</item>
+      <item>492.0,168.0</item>
+      <item>550.0,217.0</item>
+      <item>575.0,255.0</item>
+      <item>575.0,302.0</item>
+      <item>515.0,310.0</item>
+      <item>478.0,372.0</item>
+      <item>470.0,408.0</item>
+      <item>548.0,460.0</item>
+      <item>588.0,485.0</item>
+      <item>678.0,457.0</item>
+      <item>740.0,517.0</item>
+      <item>862.0,532.0</item>
+      <item>907.0,493.0</item>
+      <item>910.0,420.0</item>
+      <item>923.0,302.0</item>
+      <item>905.0,203.0</item>
+      <item>772.0,145.0</item>
+      <item>742.0,163.0</item>
+      <item>715.0,190.0</item>
+      <item>695.0,157.0</item>
+      <item>703.0,112.0</item>
+      <item>745.0,113.0</item>
+      <item>910.0,183.0</item>
+      <item>928.0,270.0</item>
+      <item>927.0,382.0</item>
+      <item>917.0,497.0</item>
+      <item>883.0,547.0</item>
+      <item>888.0,597.0</item>
+      <item>923.0,632.0</item>
+      <item>1037.0,650.0</item>
+      <item>1085.0,712.0</item>
+      <item>1180.0,738.0</item>
+      <item>1185.0,792.0</item>
+      <item>1232.0,835.0</item>
+      <item>1228.0,837.0</item>
+    </vertices>
+  </ChainShape>
+  <Waypoints>
+    <vertices type="vec2[]">
+      <item>33.0,236.0</item>
+      <item>53.0,230.0</item>
+      <item>72.0,232.0</item>
+      <item>83.0,256.0</item>
+      <item>90.0,280.0</item>
+      <item>103.0,288.0</item>
+      <item>113.0,303.0</item>
+      <item>139.0,312.0</item>
+      <item>157.0,334.0</item>
+      <item>199.0,443.0</item>
+      <item>218.0,485.0</item>
+      <item>244.0,516.0</item>
+      <item>256.0,534.0</item>
+      <item>248.0,565.0</item>
+      <item>233.0,589.0</item>
+      <item>186.0,630.0</item>
+      <item>123.0,635.0</item>
+      <item>96.0,663.0</item>
+      <item>84.0,697.0</item>
+      <item>84.0,761.0</item>
+      <item>97.0,790.0</item>
+      <item>116.0,821.0</item>
+      <item>124.0,852.0</item>
+      <item>133.0,880.0</item>
+      <item>155.0,912.0</item>
+      <item>173.0,927.0</item>
+      <item>206.0,937.0</item>
+      <item>241.0,944.0</item>
+      <item>284.0,947.0</item>
+      <item>314.0,945.0</item>
+      <item>358.0,941.0</item>
+      <item>397.0,920.0</item>
+      <item>427.0,874.0</item>
+      <item>455.0,842.0</item>
+      <item>482.0,816.0</item>
+      <item>484.0,737.0</item>
+      <item>485.0,615.0</item>
+      <item>467.0,559.0</item>
+      <item>389.0,428.0</item>
+      <item>363.0,400.0</item>
+      <item>344.0,366.0</item>
+      <item>335.0,273.0</item>
+      <item>315.0,245.0</item>
+      <item>280.0,227.0</item>
+      <item>237.0,207.0</item>
+      <item>219.0,179.0</item>
+      <item>214.0,144.0</item>
+      <item>230.0,99.0</item>
+      <item>267.0,78.0</item>
+      <item>343.0,79.0</item>
+      <item>398.0,102.0</item>
+      <item>451.0,140.0</item>
+      <item>520.0,163.0</item>
+      <item>564.0,209.0</item>
+      <item>595.0,257.0</item>
+      <item>588.0,310.0</item>
+      <item>519.0,357.0</item>
+      <item>542.0,422.0</item>
+      <item>625.0,441.0</item>
+      <item>694.0,428.0</item>
+      <item>741.0,476.0</item>
+      <item>821.0,496.0</item>
+      <item>881.0,473.0</item>
+      <item>899.0,393.0</item>
+      <item>903.0,296.0</item>
+      <item>888.0,225.0</item>
+      <item>824.0,181.0</item>
+      <item>760.0,167.0</item>
+      <item>711.0,211.0</item>
+      <item>683.0,172.0</item>
+      <item>684.0,111.0</item>
+      <item>729.0,93.0</item>
+      <item>929.0,179.0</item>
+      <item>949.0,289.0</item>
+      <item>944.0,381.0</item>
+      <item>921.0,593.0</item>
+      <item>1055.0,636.0</item>
+      <item>1084.0,667.0</item>
+      <item>1149.0,710.0</item>
+      <item>1187.0,731.0</item>
+      <item>1256.0,836.0</item>
+    </vertices>
+  </Waypoints>
+  <Ship>
+    <translation type="vec2">21.0,238.0</translation>
+  </Ship>
+  <Obstacle>
+    <translation type="vec2">93.0,315.0</translation>
+    <scale>1.0</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">159.0,314.0</translation>
+    <scale>1.0</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">175.0,439.0</translation>
+    <scale>2.0736</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">223.0,467.0</translation>
+    <scale>0.8493465</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">218.0,514.0</translation>
+    <scale>0.6794772</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">227.0,515.0</translation>
+    <scale>0.5435818</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">268.0,551.0</translation>
+    <scale>0.9393093</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">273.0,564.0</translation>
+    <scale>0.75144744</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">261.0,571.0</translation>
+    <scale>1.2985011</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">217.0,497.0</translation>
+    <scale>1.2985011</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">250.0,588.0</translation>
+    <scale>0.79779905</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">241.0,598.0</translation>
+    <scale>0.63823926</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">244.0,582.0</translation>
+    <scale>0.5105914</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">261.0,585.0</translation>
+    <scale>0.5105914</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">179.0,649.0</translation>
+    <scale>0.88230187</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">168.0,650.0</translation>
+    <scale>1.0587622</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">190.0,644.0</translation>
+    <scale>0.8470098</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">90.0,644.0</translation>
+    <scale>1.2196941</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">127.0,650.0</translation>
+    <scale>0.78060424</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">68.0,691.0</translation>
+    <scale>1.3488841</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">68.0,728.0</translation>
+    <scale>0.69062865</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">72.0,761.0</translation>
+    <scale>0.6630035</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">111.0,772.0</translation>
+    <scale>0.7956042</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">118.0,790.0</translation>
+    <scale>1.6497648</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">101.0,764.0</translation>
+    <scale>0.81089234</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">113.0,891.0</translation>
+    <scale>1.2913662</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">128.0,932.0</translation>
+    <scale>2.5706658</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">178.0,902.0</translation>
+    <scale>1.6452261</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">196.0,904.0</translation>
+    <scale>0.84235585</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">211.0,920.0</translation>
+    <scale>2.0122087</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">244.0,968.0</translation>
+    <scale>0.82420063</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">261.0,968.0</translation>
+    <scale>0.82420063</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">253.0,963.0</translation>
+    <scale>0.6593605</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">420.0,850.0</translation>
+    <scale>1.5120691</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">406.0,936.0</translation>
+    <scale>1.2096553</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">517.0,800.0</translation>
+    <scale>2.0902843</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">512.0,774.0</translation>
+    <scale>2.0902843</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">511.0,752.0</translation>
+    <scale>1.5411249</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">499.0,791.0</translation>
+    <scale>0.9863199</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">489.0,568.0</translation>
+    <scale>0.9863199</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">478.0,547.0</translation>
+    <scale>1.7043607</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">471.0,530.0</translation>
+    <scale>0.8726327</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">466.0,521.0</translation>
+    <scale>0.5584849</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">338.0,397.0</translation>
+    <scale>1.3341014</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">356.0,407.0</translation>
+    <scale>0.8538249</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">333.0,373.0</translation>
+    <scale>0.7554097</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">343.0,256.0</translation>
+    <scale>1.0442784</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">346.0,270.0</translation>
+    <scale>0.8354227</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">347.0,286.0</translation>
+    <scale>0.6416046</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">207.0,194.0</translation>
+    <scale>1.0643451</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">201.0,166.0</translation>
+    <scale>1.0643451</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">233.0,73.0</translation>
+    <scale>1.532657</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">224.0,84.0</translation>
+    <scale>0.98090047</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">233.0,141.0</translation>
+    <scale>0.98090047</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">206.0,121.0</translation>
+    <scale>0.62777627</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">292.0,93.0</translation>
+    <scale>0.83312434</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">304.0,93.0</translation>
+    <scale>0.83312434</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">322.0,91.0</translation>
+    <scale>1.199699</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">396.0,71.0</translation>
+    <scale>1.9105506</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">378.0,71.0</translation>
+    <scale>0.97820187</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">408.0,141.0</translation>
+    <scale>1.4086106</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">397.0,121.0</translation>
+    <scale>2.0283992</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">509.0,134.0</translation>
+    <scale>1.0385405</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">492.0,136.0</translation>
+    <scale>0.83083236</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">521.0,148.0</translation>
+    <scale>1.1963986</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">564.0,182.0</translation>
+    <scale>0.7656951</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">578.0,200.0</translation>
+    <scale>0.5880538</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">552.0,167.0</translation>
+    <scale>1.1706127</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">594.0,321.0</translation>
+    <scale>1.6182549</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">579.0,327.0</translation>
+    <scale>0.8285465</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">524.0,319.0</translation>
+    <scale>0.7954047</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">516.0,330.0</translation>
+    <scale>0.509059</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">538.0,318.0</translation>
+    <scale>0.733045</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">486.0,399.0</translation>
+    <scale>1.2667017</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">500.0,406.0</translation>
+    <scale>1.2667017</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">587.0,463.0</translation>
+    <scale>2.1888604</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">614.0,463.0</translation>
+    <scale>1.4008707</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">630.0,408.0</translation>
+    <scale>1.2910426</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">646.0,409.0</translation>
+    <scale>0.7932166</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">700.0,409.0</translation>
+    <scale>0.91378546</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">687.0,410.0</translation>
+    <scale>0.91378546</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">743.0,501.0</translation>
+    <scale>1.3158511</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">856.0,517.0</translation>
+    <scale>1.8948256</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">871.0,503.0</translation>
+    <scale>1.1176136</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">766.0,510.0</translation>
+    <scale>1.1176136</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">727.0,491.0</translation>
+    <scale>1.1176136</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">893.0,493.0</translation>
+    <scale>1.1176136</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">733.0,223.0</translation>
+    <scale>1.6402887</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">717.0,223.0</translation>
+    <scale>0.83982784</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">667.0,86.0</translation>
+    <scale>1.2093521</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">683.0,86.0</translation>
+    <scale>1.4512225</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">667.0,101.0</translation>
+    <scale>0.74302596</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">947.0,187.0</translation>
+    <scale>0.74302596</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">944.0,217.0</translation>
+    <scale>0.74302596</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">949.0,210.0</translation>
+    <scale>0.74302596</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">907.0,543.0</translation>
+    <scale>1.0699574</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">904.0,561.0</translation>
+    <scale>1.2839489</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">903.0,590.0</translation>
+    <scale>1.8488865</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">921.0,614.0</translation>
+    <scale>1.1832874</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">1019.0,603.0</translation>
+    <scale>1.1832874</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">1050.0,616.0</translation>
+    <scale>0.9466299</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">989.0,596.0</translation>
+    <scale>0.7573039</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">1103.0,706.0</translation>
+    <scale>0.7573039</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">1091.0,697.0</translation>
+    <scale>0.7573039</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">1077.0,687.0</translation>
+    <scale>0.7573039</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">1196.0,724.0</translation>
+    <scale>0.90876466</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">1196.0,786.0</translation>
+    <scale>0.90876466</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">56.0,206.0</translation>
+    <scale>1.3086212</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">90.0,216.0</translation>
+    <scale>1.8844144</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">351.0,390.0</translation>
+    <scale>0.6174849</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">357.0,371.0</translation>
+    <scale>0.6174849</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">370.0,407.0</translation>
+    <scale>0.49398795</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">370.0,419.0</translation>
+    <scale>0.49398795</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">380.0,419.0</translation>
+    <scale>0.49398795</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">365.0,397.0</translation>
+    <scale>0.49398795</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">357.0,385.0</translation>
+    <scale>0.49398795</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">363.0,387.0</translation>
+    <scale>0.20233746</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">366.0,409.0</translation>
+    <scale>0.20233746</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">375.0,416.0</translation>
+    <scale>0.12949598</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">379.0,409.0</translation>
+    <scale>0.12949598</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">378.0,412.0</translation>
+    <scale>0.12949598</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">365.0,417.0</translation>
+    <scale>0.12949598</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">366.0,424.0</translation>
+    <scale>0.15539518</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">376.0,423.0</translation>
+    <scale>0.15539518</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">381.0,415.0</translation>
+    <scale>0.18647422</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">365.0,404.0</translation>
+    <scale>0.18647422</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">360.0,401.0</translation>
+    <scale>0.18647422</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">353.0,401.0</translation>
+    <scale>0.18647422</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">357.0,397.0</translation>
+    <scale>0.18647422</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">345.0,388.0</translation>
+    <scale>0.18647422</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">354.0,381.0</translation>
+    <scale>0.18647422</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">350.0,383.0</translation>
+    <scale>0.18647422</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">360.0,379.0</translation>
+    <scale>0.18647422</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">343.0,383.0</translation>
+    <scale>0.2685229</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">350.0,377.0</translation>
+    <scale>0.2685229</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">360.0,394.0</translation>
+    <scale>0.2685229</scale>
+  </Obstacle>
+  <CollectableItem>
+    <translation type="vec2">386.0,428.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">393.0,436.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">399.0,445.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">404.0,452.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">410.0,461.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">415.0,470.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">420.0,480.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">426.0,490.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">432.0,501.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">438.0,511.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">444.0,521.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">450.0,532.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">456.0,542.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">462.0,552.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">468.0,562.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">473.0,573.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">478.0,585.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">481.0,599.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">483.0,612.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">483.0,624.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">483.0,637.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">483.0,652.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">483.0,665.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">483.0,679.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">483.0,694.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">482.0,709.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">482.0,723.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">481.0,737.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">477.0,817.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">468.0,826.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">459.0,836.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">450.0,846.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">441.0,857.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">263.0,948.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">277.0,949.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">293.0,949.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">310.0,965.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">324.0,964.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">337.0,961.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">350.0,940.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">365.0,936.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">379.0,929.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">389.0,910.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">396.0,896.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">404.0,884.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">169.0,941.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">179.0,945.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">190.0,949.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">201.0,952.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">212.0,954.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">83.0,777.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">88.0,787.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">94.0,798.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">100.0,810.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">106.0,822.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">124.0,827.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">127.0,840.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">129.0,852.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">130.0,866.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">132.0,881.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">84.0,734.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">83.0,721.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">84.0,707.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">189.0,630.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">200.0,621.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">211.0,612.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">220.0,603.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">230.0,592.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">113.0,641.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">85.0,666.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">150.0,642.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">234.0,503.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">242.0,512.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">250.0,523.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">147.0,335.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">167.0,343.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">162.0,366.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">181.0,379.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">173.0,403.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">189.0,419.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">197.0,432.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">203.0,443.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">130.0,317.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">113.0,305.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">96.0,243.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">98.0,255.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">100.0,268.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">237.0,209.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">251.0,214.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">266.0,219.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">279.0,225.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">290.0,233.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">304.0,241.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">319.0,249.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">230.0,195.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">222.0,183.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">334.0,312.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">335.0,323.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">345.0,311.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">346.0,323.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">336.0,336.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">336.0,348.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">347.0,337.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">348.0,349.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">284.0,74.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">297.0,73.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">312.0,73.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">324.0,72.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">337.0,72.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">231.0,124.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">236.0,112.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">221.0,111.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">408.0,93.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">415.0,104.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">423.0,117.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">432.0,130.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">442.0,142.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">517.0,179.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">527.0,188.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">538.0,197.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">565.0,207.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">576.0,223.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">584.0,235.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">586.0,273.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">597.0,273.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">587.0,284.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">599.0,284.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">556.0,318.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">516.0,355.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">497.0,378.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">528.0,407.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">540.0,414.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">552.0,421.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">528.0,421.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">542.0,427.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">554.0,435.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">565.0,429.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">568.0,442.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">578.0,435.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">583.0,445.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">592.0,435.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">596.0,446.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">607.0,450.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">619.0,452.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">635.0,456.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">651.0,454.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">666.0,452.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">605.0,427.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">618.0,422.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">631.0,421.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">648.0,421.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">664.0,422.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">679.0,424.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">694.0,426.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">708.0,431.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">718.0,441.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">680.0,448.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">694.0,446.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">706.0,449.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">716.0,460.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">728.0,453.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">791.0,505.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">807.0,507.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">821.0,509.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">889.0,472.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">894.0,449.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">893.0,293.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">893.0,304.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">894.0,318.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">895.0,331.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">893.0,344.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">892.0,358.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">894.0,372.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">914.0,318.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">914.0,307.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">913.0,295.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">911.0,281.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">908.0,269.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">906.0,255.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">903.0,242.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">894.0,386.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">901.0,229.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">793.0,166.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">802.0,179.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">816.0,173.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">827.0,185.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">840.0,182.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">729.0,195.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">684.0,202.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">680.0,188.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">676.0,174.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">673.0,161.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">671.0,147.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">710.0,94.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">727.0,94.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">774.0,117.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">779.0,105.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">797.0,127.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">803.0,114.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">818.0,138.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">824.0,124.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">842.0,147.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">847.0,134.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">860.0,156.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">866.0,142.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">882.0,164.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">888.0,150.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">904.0,173.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">908.0,161.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">916.0,185.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">928.0,175.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">935.0,193.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">921.0,198.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">929.0,222.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">931.0,234.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">933.0,245.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">954.0,264.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">956.0,278.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">955.0,293.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">937.0,316.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">936.0,330.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">953.0,367.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">952.0,381.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">927.0,427.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">926.0,445.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">946.0,428.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">946.0,445.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">936.0,436.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">933.0,485.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">924.0,499.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">940.0,499.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">928.0,544.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">927.0,561.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">931.0,577.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">945.0,582.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">953.0,626.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">968.0,627.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">977.0,630.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">991.0,633.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">1004.0,637.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">1056.0,649.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">1069.0,638.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">1066.0,661.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">1080.0,651.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">1068.0,650.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">1129.0,702.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">1135.0,714.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">1142.0,700.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">1149.0,712.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">1193.0,745.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">1195.0,760.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">1196.0,773.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">1227.0,790.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">1217.0,802.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">1227.0,811.0</translation>
+  </CollectableItem>
+  <CollectableItem>
+    <translation type="vec2">1238.0,801.0</translation>
+  </CollectableItem>
+  <Obstacle>
+    <translation type="vec2">617.0,439.0</translation>
+    <scale>0.2685229</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">622.0,436.0</translation>
+    <scale>0.2685229</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">628.0,435.0</translation>
+    <scale>0.2685229</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">626.0,442.0</translation>
+    <scale>0.2685229</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">637.0,442.0</translation>
+    <scale>0.2685229</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">631.0,438.0</translation>
+    <scale>0.32222748</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">638.0,435.0</translation>
+    <scale>0.32222748</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">623.0,439.0</translation>
+    <scale>0.38667297</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">646.0,440.0</translation>
+    <scale>0.38667297</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">651.0,434.0</translation>
+    <scale>0.46400756</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">660.0,440.0</translation>
+    <scale>0.46400756</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">671.0,437.0</translation>
+    <scale>0.37120605</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">667.0,438.0</translation>
+    <scale>0.29696482</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">678.0,438.0</translation>
+    <scale>0.29696482</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">671.0,433.0</translation>
+    <scale>0.35635778</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">660.0,434.0</translation>
+    <scale>0.35635778</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">652.0,443.0</translation>
+    <scale>0.42762935</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">643.0,432.0</translation>
+    <scale>0.5131552</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">633.0,433.0</translation>
+    <scale>0.5131552</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">610.0,438.0</translation>
+    <scale>0.2627355</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">615.0,435.0</translation>
+    <scale>0.2627355</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">621.0,433.0</translation>
+    <scale>0.2627355</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">666.0,432.0</translation>
+    <scale>0.2627355</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">682.0,437.0</translation>
+    <scale>0.2627355</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">685.0,435.0</translation>
+    <scale>0.43584666</scale>
+  </Obstacle>
+  <Obstacle>
+    <translation type="vec2">277.0,132.0</translation>
+    <scale>0.43584666</scale>
+  </Obstacle>
+</items>
