@@ -5,6 +5,10 @@ This is a project made on the Tizen Hackathon in Russia, Moscow on
 The code is quite slow and dirty (it was written on the hackathon!),
 don't take it seriously.
 
+**For more information see article on habr.com**:
+[in Russian](https://habr.com/post/217909) or
+[English version through Google Translate](https://translate.google.com/translate?hl=en&sl=ru&tl=en&u=https%3A%2F%2Fhabr.com%2Fpost%2F217909)
+
 There are screenshots available in the `screenshots` directory of this
 repository.
 
@@ -30,7 +34,7 @@ Then press `Finish`.
 License
 -------
 
-Copyright © 2014 FriedCroc Team (admin@friedcroc.com).
+Copyright © 2014 FriedCroc Team (zapolnov@gmail.com).
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
